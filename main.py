@@ -1,7 +1,5 @@
 import sys, os
-
 MODULE = "src/"
-
 sys.path.insert(0,MODULE)
 
 import demo
